@@ -1,5 +1,4 @@
-planets = ["Earth","Uranus"]
-planets.append("Pluto")
+planets = ["Mercury", "Venus", "Earth","Uranus"]
 print(planets)
 for planet in planets:
     print(planet)
